@@ -1,0 +1,12 @@
+Sector,Adoption_Rate_Percent,YoY_Growth_Percent,Investment_Billion_USD,Top_Use_Case,Forecast_2030_Percent,Region,Maturity_Level,Barrier,ROI_Multiplier
+Technology,78,12,107,ML and NLP and Computer Vision,91,Global,High,Talent Shortage,6.8
+Finance & Banking,72,10,67,Fraud Detection and Algo Trading,86,Global,High,Regulation,5.9
+Cybersecurity,69,20,29,Threat Detection and Zero-Trust AI,88,Global,High,Data Privacy,6.2
+Healthcare,65,18,55,Disease Prediction and Drug Discovery,84,Global,Medium,Data Privacy,5.5
+Media & Entertainment,61,11,19,Content Recommendation and Generation,80,Global,Medium,IP Rights,4.8
+Retail & E-Commerce,58,9,24,Recommendation Engines and Demand Forecast,76,Global,Medium,Integration Cost,4.5
+Manufacturing,55,14,37,Predictive Maintenance and Quality Control,78,Global,Medium,Legacy Systems,4.9
+Education,48,22,11,Adaptive Learning and Auto Grading,79,Global,Low,Infrastructure,4.1
+Transportation,46,16,18,Autonomous Vehicles and Route Optimization,74,Global,Low,Regulation,4.3
+Energy & Utilities,42,15,14,Smart Grid and Demand Forecasting,71,Global,Low,Infrastructure,3.9
+Agriculture,23,30,8,Crop Monitoring and Yield Prediction,67,Global,Low,Connectivity,3.5
